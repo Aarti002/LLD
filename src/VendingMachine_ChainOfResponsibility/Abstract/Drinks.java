@@ -1,4 +1,4 @@
-package VendingMachine.Abstract;
+package VendingMachine_ChainOfResponsibility.Abstract;
 
 public abstract class Drinks {
     public static final String coke = "Coca";

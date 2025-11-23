@@ -1,6 +1,6 @@
-package VendingMachine.ConcreteAbstract;
+package VendingMachine_ChainOfResponsibility.ConcreteAbstract;
 
-import VendingMachine.Abstract.Drinks;
+import VendingMachine_ChainOfResponsibility.Abstract.Drinks;
 
 public class CocaCola extends Drinks {
     public CocaCola(Drinks type) {
