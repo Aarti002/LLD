@@ -2,7 +2,6 @@ package BookMyShow;
 
 import BookMyShow.Controllers.BookingController;
 import BookMyShow.Controllers.MovieController;
-import BookMyShow.Controllers.ShowController;
 import BookMyShow.Controllers.TheaterController;
 import BookMyShow.Core.*;
 import BookMyShow.Enums.ScreenType;
