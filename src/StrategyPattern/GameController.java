@@ -10,7 +10,7 @@ import StrategyPattern.FightStrategy.SwordWeapon;
 import StrategyPattern.FightStrategy.Weapons;
 
 public class GameController {
-    public static void main(String args[]) {
+    static void main(String[] args) {
         Weapons sword = new SwordWeapon();
         Character kingCharacter = new KingCharacter(sword);
         kingCharacter.powerLevel();
